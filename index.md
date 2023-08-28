@@ -1,15 +1,34 @@
 ---
 layout: default
-title: Student Blog
+title: Student Blog &#124; Maryam Abdul-Aziz &#124; CSSE
 ---
+![An image of Del Norte High School](images/dnhs_image.jpg "Del Norte")
 
+## The Beginning
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+*This is where my computer science journey starts. From here, anything is possible!*
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About Maryam
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+**Maryam Abdul-Aziz** was born in San Diego in 2006. Maryam lived on the East Coast for many years before moving back to San Diego. Maryam is a junior and is set to graduate in 2025.
+
+![A US flag, Pakistani flag, brain with light coming out of it, history book, pencil, and Spanish speech bubble saying ¡Hola!](images/Computer_Science_About_Me.png "About Me image")
+
+## Other Information
+
+**Currently listening:**   
+<a href="https://www.youtube.com/watch?v=5e4INH1yr9c"> Nothing's New</a> by Rio Romeo
+
+**Currently reading:**  
+Nothing at the moment!
+
+**Current project:**  
+Tool Review + Website setup through index.md
+
+**Fun Facts:**
+- Maryam wants to be an engineer
+- Maryam's dream college is UC Berekely
+- Maryam loves to read and write
+- Maryam has a passion for learning and speaking Spanish
+- Maryam's favorite thing to learn about is history
+- Maryam has lived in 3 different states
