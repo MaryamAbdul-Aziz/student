@@ -28,7 +28,6 @@ type: hacks
     
 <script src="code.js"></script>
     
-</body>
 body {
     padding: 20px;
     background-color: #444;
@@ -73,8 +72,10 @@ td.live {
     background-color: #CC4774;
     border-radius: 10px;
 }
-var rows = 38;
-var cols = 100;
+</body>
+
+var rows = 40;
+var cols = 40;
 
 var playing = false;
 
