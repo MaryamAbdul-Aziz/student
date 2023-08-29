@@ -1,10 +1,10 @@
 # CSP course meta data
-Unit 1:
+Unit1:
   title: Build a Lab Notebook
   description:  Install Tools.  Design lab notebook.  Learn GitHub Pages. Work with pair, Allen. 
   start: 0
   end: 3
-Unit 2:
+Unit2:
   title: Learn Language
   description: Learn (JavaScript|Python|Java).  Start Agile development process.
   start: 4
