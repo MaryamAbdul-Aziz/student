@@ -17,3 +17,5 @@ courses: { compsci: {week: 1} }
 - Show how have I learned Markdown, HTML, CSS, JavaScript.
 - Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
 - Committed and pushed changes from local machine to GitHub
+- Created GitHub Pages blog
+- Reached local version of blog

@@ -13,3 +13,4 @@ courses: { compsci: {week: 0} }
 - Installed homebrew, VSCode, Slack
 - Used brew to install python, ruby, and jupyter notebooks
 - Cloned git repository and made my first commit
+- Personalized index.md and verified changes on GitHub Pages
