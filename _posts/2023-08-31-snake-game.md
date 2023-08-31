@@ -1,7 +1,7 @@
 ---
 title: Classic Snake Game
 layout: default
-description: Another text game using code taken from pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.  
+description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers. Taken from https://nighthawkcoders.github.io/APCSA/frontend/snake
 permalink: snake
 image: images/snake.png
 courses: { compsci: {week: 2} }
