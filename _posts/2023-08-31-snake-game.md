@@ -21,7 +21,7 @@ type: hacks
     canvas{
         display: none;
         border-style: solid;
-        border-width: 10px;
+        border-width: 5px;
         border-color: #FFFFFF;
     }
     canvas:focus{
@@ -273,7 +273,7 @@ type: hacks
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "red";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
