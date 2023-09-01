@@ -5,7 +5,7 @@ description: A pretty advanced use of JavaScript building classic snake game usi
 image: /images/snake.png
 permalink: snake
 courses: { compsci: {week: 2} }
-type: hacks
+type: tangibles
 ---
 
 <style>
