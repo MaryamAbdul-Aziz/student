@@ -10,7 +10,7 @@ courses: { compsci: {week: 0} }
 
 ### PBL Unit 1 / Week 0
 
-**Learning outcome:**  Installing Tools and showing usage of VSCode.
+**Learning outcome:** Installing Tools and showing usage of VSCode.
 
 Wednesday - Pick pair-share partner and crossover pair to establish team of four.
 - Paired up with Allen Abrams. Did not find crossover pair, not established in team of four
