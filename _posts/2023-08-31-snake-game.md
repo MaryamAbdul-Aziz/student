@@ -327,7 +327,7 @@ type: tangibles
                     if (snake_dir !== 0)    // not up
                         snake_next_dir = 2; // then switch down
                     break;
-                    case 65: // 'A' key (left)
+                case 65: // 'A' key (left)
                     if (snake_dir !== 1) // not right
                         snake_next_dir = 3; // then switch left
                     break;
