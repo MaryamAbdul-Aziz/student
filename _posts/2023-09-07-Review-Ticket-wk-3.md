@@ -14,17 +14,18 @@ courses: { compsci: {week: 3} }
 - Asked ChatGPT and understood what code meant and where it was meant to go
 Example:
 
-case 65: // 'A' key (left)
+case 65: // 'A' key
 
-    if (snake_dir !== 1) // not right
+    if (snake_dir !== 1) 
 
-        snake_next_dir = 3; // then switch left
-        
+        snake_next_dir = 3; 
     break;
+
 
 > Wrote Linux script that checks for existence of repository and clones from GitHub if not
 - Took example from my own Hacks from week 2 and Mr. M's Linux Shell and Bash page and wrote simple Linux commands to download, clone, and look inside given repository
     - Discovered that Jupyter Notebooks does not take inputs in all languages, so adjusted accordingly by defining variables
+
 
 > Made a table using HTML and JavaScript
 - Followed Mr. M's tutorial
