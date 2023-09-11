@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
 title: Daily Plan
 description: Plan for week 4
