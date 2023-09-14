@@ -19,4 +19,13 @@ Tuesday:
 - Continue work on JS Calculator Review
 
 Wednesday:
-- TBA
+- Finish work on JS Input Calculator
+- Write Agile Methodology manifesto
+
+Thursday:
+- Work with team to create graphic for Agile Methodology
+- Create Issue in GitHub of future plans
+
+Friday:
+- Finish up any unfinished work
+- Continue working with group using Agile
