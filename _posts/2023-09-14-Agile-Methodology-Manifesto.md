@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Agile Methodology Manifesto
 description: Our team (Maryam, Allen, Abigail, Gavin)'s Agile Manifesto
-type: tangibles
-courses: { compsci: {week: 4} }
+# type: tangibles
+# courses: { compsci: {week: 4} }
 ---
 
 ## Agile Methodology Manifesto
