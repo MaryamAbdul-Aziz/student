@@ -16,16 +16,14 @@ Monday:
 - Work on JS input and Calculator assignment
 
 Tuesday:
-- Continue work on JS Calculator Review
+- Continue work on JS Calculator Review (added category column)
 
 Wednesday:
-- Finish work on JS Input Calculator
-- Write Agile Methodology manifesto
+- Continue work on JS Input Calculator (added delete row function)
 
 Thursday:
-- Work with team to create graphic for Agile Methodology
-- Create Issue in GitHub of future plans
+- Keep working on JS Input Calculator (attemtp to update row number)
 
 Friday:
 - Finish up any unfinished work
-- Continue working with group using Agile
+- Finalize work on JS Input Calculator
