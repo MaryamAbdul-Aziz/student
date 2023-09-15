@@ -13,7 +13,7 @@ courses: { compsci: {week: 4} }
 **Learning outcome:** Learn more about HTML and JS and modify an existing project
 
 Monday:
-- Work on JS input and Calculator assignment
+- Work on JS input and Calculator assignment (formatted into table)
 
 Tuesday:
 - Continue work on JS Calculator Review (added category column)
