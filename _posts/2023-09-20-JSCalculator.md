@@ -3,8 +3,8 @@ toc: true
 comments: false
 layout: post
 title: JS Calculator
-courses: { compsci: {week: 5} }
 type: hacks
+courses: { compsci: {week: 5} }
 ---
 <FONT COLOR="#cfffc9">
 
