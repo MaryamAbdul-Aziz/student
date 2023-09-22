@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Daily Plan
-description: Plan for week 4
+description: Plan for week 5
 type: plans
 courses: { compsci: {week: 5} }
 ---
