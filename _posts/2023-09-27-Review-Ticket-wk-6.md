@@ -9,6 +9,8 @@ courses: { compsci: {week: 6} }
 
 ### Summary of Accomplishments
 
+Wednesday:
+
 > Completed HTML Basics 
 - Easily created buttons but found button text was yellow
     - Experimented with this and could not change text color no matter what
@@ -27,4 +29,15 @@ courses: { compsci: {week: 6} }
         - Recognized `i++` as i being increased with each case
         - Made changes to code so that it would print the variable and then `variable + "is a " + typeof variable`
 
-> In the process of working on my test, somehow removed all ipynb files from my time box again and lost all motivation for the night.
+Thursday:
+
+> Completed JS Basics with HTML (DOM)
+- Worked a little with ChatGPT in class to come up with basic structure of the code
+    - Set variables for link href
+    - Wrote a function to switch link href upon clicking a button
+    - Fixed function to remove `onclick` and instead moved function to button attributes
+- Added some additional features to button
+    - Switched both link text and link href
+    - Changed button text to say  `Working...` while function was running
+    - Tried using import.time to add a delay to make the change look human
+        - Used ChatGPT's advice and instead used function within a function, `setTimeout()`
