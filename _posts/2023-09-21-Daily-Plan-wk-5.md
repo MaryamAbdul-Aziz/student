@@ -8,7 +8,7 @@ type: plans
 courses: { compsci: {week: 5} }
 ---
 
-### PBL Unit 1 / Week 4
+### PBL Unit 1 / Week 5
 
 **Learning outcome:** Complete JS Calculator Reviews and begin working on Sprite Sheet animation
 
@@ -25,4 +25,4 @@ Thursday:
 - Begin work on Sprite Sheet Animation
 
 Friday:
-- 
+- Live Review and wrap-up
