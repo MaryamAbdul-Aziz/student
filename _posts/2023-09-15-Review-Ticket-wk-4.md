@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
 title: Review Ticket
 description: Review ticket (week 4)
