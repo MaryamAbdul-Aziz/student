@@ -49,5 +49,5 @@ Thursday:
     - Learned that I needed to use `parseFloat()` with the user input to change the variables to numbers
 
 > Completed JS Debugging
-- Further details within document
+- Further details within document regarding specific changes
 - Accidentally missed `i++` in code and ran into infinite loop that crashed VSCode and later my computer for several hours. Eventually deleted code and waited out the crash
