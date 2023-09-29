@@ -41,3 +41,13 @@ Thursday:
     - Changed button text to say  `Working...` while function was running
     - Tried using import.time to add a delay to make the change look human
         - Used ChatGPT's advice and instead used function within a function, `setTimeout()`
+
+> Completed Javascript
+- Wrote very basic code that took 2 pre-defined variables and compared them to each other
+- Then made code more advanced and changed variables to user input
+    - Looked up user input in JavaScript and discovered `prompt()`
+    - Learned that I needed to use `parseFloat()` with the user input to change the variables to numbers
+
+> Completed JS Debugging
+- Further details within document
+- Accidentally missed `i++` in code and ran into infinite loop that crashed VSCode and later my computer for several hours. Eventually deleted code and waited out the crash
