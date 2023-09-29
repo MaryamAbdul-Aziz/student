@@ -22,9 +22,9 @@ Wednesday:
     - Modified as per instructions, changed interests and classes to none
 - Did different arithmetic functions with variable numbers
     - Wrote code that I quickly realized was very repetitive and unwieldy. Asked ChatGPT to fix it for me
-        - Read through the code and was able to understand every part of the code. However I did not want to be disingenuous so I left my code as the unwieldly code it was
+    - Wrote a function that repeated the name of the operation and then the output
 - Wrote 'typeof' code
-    - Utilized ChatGPT code from previous task and modified it to my purposes
+    - Utilized previous ChatGPT code from previous task and modified it to my purposes
         - Recognized `var i=0` as the number of the string of the `listofVariables` variable
         - Recognized `i++` as i being increased with each case
         - Made changes to code so that it would print the variable and then `variable + "is a " + typeof variable`
