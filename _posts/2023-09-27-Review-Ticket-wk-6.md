@@ -6,6 +6,17 @@ type: tangibles
 courses: { compsci: {week: 6} }
 ---
 
+### Grade from Peer Reviewers:
+
+Lilian: 
+- +2.5 for hacks
+Kayla:
+- +2.5 for hacks
+Vrnda:
+- +2.5 for hacks
+
++1 for having all cells and different notebooks
++0.5 for this review ticket
 
 ### Summary of Accomplishments
 
