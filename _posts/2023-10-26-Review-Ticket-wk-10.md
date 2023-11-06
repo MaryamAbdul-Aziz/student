@@ -16,6 +16,12 @@ courses: { compsci: {week: 10} }
 - Worked closely with functions and eventListeners in Javascript
 - Programmed buttons and button functions
     - Used `.remove` and `.delete` commands when working with page elements
+- Worked with code in OOP formatting
+    - Used parent classes and child classes with some overwritten code to customize different children (ex, chicken, coyote)
 
 [More detailed summary of accomplishments](https://maryamabdul-aziz.github.io/student//2023/10/26/Maryam-review_IPYNB_2_.html)
 
+
+Future goals:
+- Solve problems faster, finish all goals and all areas of project
+- Learn more about how to use Javascript to solve unique problems
